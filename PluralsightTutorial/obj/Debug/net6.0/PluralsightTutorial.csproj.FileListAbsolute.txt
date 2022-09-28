@@ -1,0 +1,15 @@
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\bin\Debug\net6.0\PluralsightTutorial.exe
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\bin\Debug\net6.0\PluralsightTutorial.deps.json
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\bin\Debug\net6.0\PluralsightTutorial.runtimeconfig.json
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\bin\Debug\net6.0\PluralsightTutorial.dll
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\bin\Debug\net6.0\PluralsightTutorial.pdb
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\PluralsightTutorial.csproj.AssemblyReference.cache
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\PluralsightTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\PluralsightTutorial.AssemblyInfoInputs.cache
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\PluralsightTutorial.AssemblyInfo.cs
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\PluralsightTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\PluralsightTutorial.dll
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\refint\PluralsightTutorial.dll
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\PluralsightTutorial.pdb
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\PluralsightTutorial.genruntimeconfig.cache
+C:\Users\brand\PluralsightTutorial\PluralsightTutorial\obj\Debug\net6.0\ref\PluralsightTutorial.dll
